@@ -1,5 +1,5 @@
 {
-  "name": "Flow chart conditional check",
+  "name": "Switch",
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {

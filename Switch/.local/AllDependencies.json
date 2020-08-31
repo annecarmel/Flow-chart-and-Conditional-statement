@@ -1727,11 +1727,11 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "Flow chart conditional check",
-      "projectName": "Flow chart conditional check",
-      "projectPath": "C:\\Users\\WELCOME\\Documents\\UiPath\\Flow chart conditional check\\.local",
+      "projectUniqueName": "Switch",
+      "projectName": "Switch",
+      "projectPath": "C:\\Users\\WELCOME\\Documents\\UiPath\\Switch\\.local",
       "packagesPath": "C:\\Users\\WELCOME\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\WELCOME\\Documents\\UiPath\\Flow chart conditional check\\.local"
+      "outputPath": "C:\\Users\\WELCOME\\Documents\\UiPath\\Switch\\.local"
     },
     "frameworks": {
       "net461": {
